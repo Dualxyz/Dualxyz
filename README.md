@@ -1,11 +1,11 @@
-<h1 align="center">Greetings! I am Andrej</h1>
-<p align="center">Passionate software and web developer from Serbia</p>
+<h1 align="center">Greetings! I am Andrej.</h1>
+<p align="center">Passionate software and web developer from Serbia.</p>
 
 ## About me
 <ul>
  <li>I am currently working on blog-portfolio, where I write about my projects in greater detail. [COMING SOON...]</li>
  <li>I have experience in frontend and backend development, which I am always looking to expand and refine.</li>
- <li>In the process of finishing my studies at Faculty Of Technical Science</li>
+ <li>In the process of finishing my studies at Faculty Of Technical Science.</li>
  <li>Feel free to reach out to me via <a href="mailto:andrej.business@outlook.com">email </a>for collaboration or any questions you may have.</li>
 </ul>
 
@@ -37,7 +37,7 @@
    <li>This project uses C#'s Razor Pages for generating the frontend and an MVC architecture.</li>
   </ul>
  </li>
- <li><strong>Feel free to check my GitHub repo for more...</strong></li>
+ <li><strong>Feel free to check my <a href="https://github.com/Dualxyz?tab=repositories">GitHub repo</a> for more...</strong></li>
 </ul>
 
 
