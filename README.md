@@ -6,7 +6,13 @@
  <li>I am currently working on blog-portfolio, where I write about my projects in greater detail. [COMING SOON...]</li>
  <li>I have experience in frontend and backend development, which I am always looking to expand and refine.</li>
  <li>In the process of finishing my studies at Faculty Of Technical Science</li>
- <li>Feel free to reach out to me via email: andrej.business@outlook.com for collaboration or any questions you may have.</li>
+ <li>Feel free to reach out to me via <a href="andrej.business@outlook.com">email</a>for collaboration or any questions you may have.</li>
+</ul>
+
+## Contact me
+<ul>
+ <li><a href="maillto:andrej.business@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/286783/envelope-mail.svg" alt="andrej.business@outlook.com" height="30" width="40" />andrej.business@outlook.com</a> </li>
+ <li><a href="https://linkedin.com/in/andrej-jovanovic-85579a1a7" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="andrej-jovanovic-85579a1a7" height="30" width="40" />dualstab</a></li>
 </ul>
 
 <h3 align="left">Some of projects which I made</h3>
