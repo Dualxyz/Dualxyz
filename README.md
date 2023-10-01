@@ -12,7 +12,7 @@
 ## Contact me
 <ul>
  <li><a href="maillto:andrej.business@outlook.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/286783/envelope-mail.svg" alt="andrej.business@outlook.com" height="30" width="40" />andrej.business@outlook.com</a> </li>
- <li><a href="https://linkedin.com/in/andrej-jovanovic-85579a1a7" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="andrej-jovanovic-85579a1a7" height="30" width="40" />dualstab</a></li>
+ <li><a href="#" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="andrej-jovanovic-85579a1a7" height="30" width="40" />dualstab</a></li>
 </ul>
 
 <h3 align="left">Some of projects which I made</h3>
