@@ -6,7 +6,7 @@
  <li>I am currently working on blog-portfolio, where I write about my projects in greater detail. [COMING SOON...]</li>
  <li>I have experience in frontend and backend development, which I am always looking to expand and refine.</li>
  <li>In the process of finishing my studies at Faculty Of Technical Science</li>
- <li>Feel free to reach out to me via <a href="andrej.business@outlook.com">email</a>for collaboration or any questions you may have.</li>
+ <li>Feel free to reach out to me via <a href="andrej.business@outlook.com">email </a>for collaboration or any questions you may have.</li>
 </ul>
 
 ## Contact me
