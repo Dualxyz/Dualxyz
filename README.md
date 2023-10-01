@@ -9,7 +9,7 @@
  <li>📫 Feel free to reach out to me via email: andrej.business@outlook.com for collaboration or any questions you may have.</li>
 </ul>
 
-<h3 align="left">What projects did I make?</h3>
+<h3 align="left">Some of projects which I made</h3>
 <ul>
  <li>
   <strong>Fullstack project -</strong> <a href="https://github.com/Dualxyz/Webshop"><span>WebShop</span></a>
