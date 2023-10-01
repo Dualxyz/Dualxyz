@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I am Andrej Jovanovic</h1>
-<h4 align="center">Passionate software and web developer from Serbia</h3>
+<h1 align="center">Greetings! I am Andrej</h1>
+<p align="center">Passionate software and web developer from Serbia</p>
 
 ## About me
 <ul>
