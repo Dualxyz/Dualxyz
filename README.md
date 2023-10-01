@@ -3,10 +3,10 @@
 
 ## About me
 <ul>
- <li>🌟I am currently working on blog-portfolio, where I write about my projects in greater detail. [COMING SOON...]</li>
- <li>💼 I have experience in frontend and backend development, which I am always looking to expand and refine.</li>
- <li>📚 In the process of finishing my studies at Faculty Of Technical Science</li>
- <li>📫 Feel free to reach out to me via email: andrej.business@outlook.com for collaboration or any questions you may have.</li>
+ <li>I am currently working on blog-portfolio, where I write about my projects in greater detail. [COMING SOON...]</li>
+ <li>I have experience in frontend and backend development, which I am always looking to expand and refine.</li>
+ <li>In the process of finishing my studies at Faculty Of Technical Science</li>
+ <li>Feel free to reach out to me via email: andrej.business@outlook.com for collaboration or any questions you may have.</li>
 </ul>
 
 <h3 align="left">Some of projects which I made</h3>
