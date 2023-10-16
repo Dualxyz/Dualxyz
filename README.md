@@ -4,7 +4,7 @@
 ## About me
 <ul>
  <!--[<li>I am currently working on blog-portfolio, where I write about my projects in greater detail. [COMING SOON...]</li>](url)-->
- <li>I am currently learning Angular and building a fullstack project involving Angular, .NET and SQLServer stack as well as creating a personal website (portfolio + blog).</li>
+ <li>I am currently learning Angular and building a fullstack project involving Angular, .NET and SQLServer stack (<a href="https://github.com/Laplacia-WebApp"><span>Project: Laplacia</span></a>) as well as creating a personal website (portfolio + blog).</li>
  <li>I have experience in frontend and backend development, which I am always looking to expand and refine.</li>
  <li>In the process of finishing my studies at Faculty Of Technical Science.</li>
  <li>Feel free to reach out to me via <a href="mailto:andrej.business@outlook.com">email </a>for collaboration or any questions you may have.</li>
