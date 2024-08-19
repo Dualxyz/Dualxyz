@@ -15,9 +15,9 @@
   Languages: ["C#", "Python", "JavaScript"]
   Intrests: ["CyberSec", "Web Development", "Anime", "Gaming", "Music Composing", "OSINT"]
   Frameworks:
-       |-> Desktop: ["Avalonia", "WPF", "WinForms"]
-       |-> FrontEnd: ["React"]
-       |-> BackEnd: [".NET", "Blazor", "ASP.NET", "Flask"]
+       |-> Desktop: ["WPF", "WinForms"]
+       |-> FrontEnd: ["React", "Vue", "Nuxt"]
+       |-> BackEnd: [".NET", "Blazor", "Flask"]
        |-> Database: ["PostGreSQL", "MSSQL", "MongoDB", "SQLite"]
   Uptime: 26 Years
   ```
