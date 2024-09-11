@@ -5,7 +5,7 @@
 ┌[dualxyz@git]-(~)
 └> neofetch
 ```
-<div style="display:block;text-align:left"><img align="left" src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/600px-Arch-linux-logo.png" border="0" style="width:254px;">
+<div style="display:flex;text-align:left"><img align="left" src="https://wiki.installgentoo.com/images/thumb/f/f9/Arch-linux-logo.png/600px-Arch-linux-logo.png" border="0" style="width:254px;">
 
   ```css
   dualxyz@GitHub
@@ -19,7 +19,7 @@
        |-> FrontEnd: ["React", "Next", "Vue", "Nuxt"]
        |-> BackEnd: [".NET", "Blazor", "Flask"]
        |-> Database: ["PostGreSQL", "MSSQL", "MongoDB", "SQLite"]
-  Uptime: 26 Years
+  Uptime: 27 Years
   ```
 </div>
 
