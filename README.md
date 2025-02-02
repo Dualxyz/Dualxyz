@@ -28,7 +28,6 @@
   <samp>
    $
     <a href="https://discordapp.com/users/136475105680162816" target="_blank">Discord</a> .
-    <a href="https://github.com/projectlaplacia" target="_blank">ProjectLaplacia</a> .
     <a href="https://mccn.dev" target="_blank">MCCN</a>
     $
   </samp>
