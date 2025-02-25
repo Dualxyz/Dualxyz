@@ -13,11 +13,11 @@
   Name: dual
   OS: ["Windows", "Linux"]
   Languages: ["C#", "Python", "JavaScript"]
-  Intrests: ["CyberSec", "Web Development", "Anime", "Gaming", "Music Composing", "OSINT"]
+  Intrests: ["CyberSec", "Web Development", "Anime", "Gaming"]
   Frameworks:
        |-> Desktop: ["WPF", "WinForms"]
-       |-> FrontEnd: ["React", "Next", "Vue", "Nuxt"]
-       |-> BackEnd: [".NET", "Blazor", "Flask"]
+       |-> FrontEnd: ["React", "Next", "Vue", "Nuxt", "Angular"]
+       |-> BackEnd: [".NET", "Blazor", "Flask", "SpringBoot"]
        |-> Database: ["PostGreSQL", "MSSQL", "MongoDB", "SQLite"]
   Uptime: 27 Years
   ```
