@@ -12,7 +12,7 @@
   -----------------
   Name: dual
   OS: ["Windows", "Linux"]
-  Languages: ["C#", "Python", "JavaScript"]
+  Languages: ["C#", "Python", "JS/TS", "Java"]
   Intrests: ["CyberSec", "Web Development", "Anime", "Gaming"]
   Frameworks:
        |-> Desktop: ["WPF", "WinForms"]
