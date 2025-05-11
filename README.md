@@ -17,7 +17,7 @@
   Frameworks:
        |-> Desktop: ["WPF", "WinForms"]
        |-> FrontEnd: ["React", "Next", "Vue", "Nuxt", "Angular"]
-       |-> BackEnd: [".NET", "Blazor", "Flask", "SpringBoot"]
+       |-> BackEnd: [".NET", "SpringBoot"]
        |-> Database: ["PostGreSQL", "MSSQL", "MongoDB", "SQLite"]
   Uptime: 27 Years
   ```
