@@ -5,7 +5,7 @@
 ┌[dualxyz@git]-(~)
 └> neofetch
 ```
-<div style="display:flex;text-align:left"><img align="left" border="0" style="width:254px;">
+<div style="display:flex;text-align:left"><img align="left" src="https://free-astro.org/images/thumb/5/5d/Arch_logo.png/600px-Arch_logo.png?20160905200256" border="0" style="width:254px;">
 
   ```css
   dualxyz@GitHub
