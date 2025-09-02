@@ -19,7 +19,7 @@
        |-> FrontEnd: ["React", "Next", "Angular"]
        |-> BackEnd: [".NET", "SpringBoot"]
        |-> Database: ["PostGreSQL", "MSSQL", "MongoDB", "SQLite"]
-  Uptime: 27 Years
+  Uptime: 28 Years
   ```
 </div>
 
