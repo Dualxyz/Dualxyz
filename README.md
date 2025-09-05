@@ -1,7 +1,6 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=dualxyz&color=blueviolet"></img></p>
 
 ```css
-/*Credits to github.com/heapbytes*/
 ┌[dualxyz@git]-(~)
 └> neofetch
 ```
