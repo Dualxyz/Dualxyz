@@ -15,9 +15,9 @@
   Intrests: ["CyberSec", "Web Development", "Anime", "Gaming"]
   Frameworks:
        |-> Desktop: ["WPF", "WinForms"]
-       |-> FrontEnd: ["React", "Next", "Angular"]
+       |-> FrontEnd: ["Angular"]
        |-> BackEnd: [".NET", "SpringBoot"]
-       |-> Database: ["PostGreSQL", "MSSQL", "MongoDB", "SQLite"]
+       |-> Database: ["PostGreSQL", "MSSQL", "MySQL", "MongoDB", "SQLite"]
   Uptime: 28 Years
   ```
 </div>
