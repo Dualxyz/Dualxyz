@@ -18,7 +18,7 @@
        |-> FrontEnd: ["Angular"]
        |-> BackEnd: [".NET", "SpringBoot"]
        |-> Database: ["PostGreSQL", "MSSQL", "MySQL", "MongoDB", "SQLite"]
-  Uptime: 28 Years
+  Uptime: 29 Years
   ```
 </div>
 
